@@ -1,0 +1,217 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\code\\RandomSeats\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9BA67953-83D3-410E-8C21-82631893CF9C}|RandomSeats\\RandomSeats.csproj|c:\\code\\randomseats\\randomseats\\data\\randomseatscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BA67953-83D3-410E-8C21-82631893CF9C}|RandomSeats\\RandomSeats.csproj|solutionrelative:randomseats\\data\\randomseatscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BA67953-83D3-410E-8C21-82631893CF9C}|RandomSeats\\RandomSeats.csproj|c:\\code\\randomseats\\randomseats\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BA67953-83D3-410E-8C21-82631893CF9C}|RandomSeats\\RandomSeats.csproj|solutionrelative:randomseats\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BA67953-83D3-410E-8C21-82631893CF9C}|RandomSeats\\RandomSeats.csproj|c:\\code\\randomseats\\randomseats\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9BA67953-83D3-410E-8C21-82631893CF9C}|RandomSeats\\RandomSeats.csproj|solutionrelative:randomseats\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BA67953-83D3-410E-8C21-82631893CF9C}|RandomSeats\\RandomSeats.csproj|c:\\code\\randomseats\\randomseats\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BA67953-83D3-410E-8C21-82631893CF9C}|RandomSeats\\RandomSeats.csproj|solutionrelative:randomseats\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BA67953-83D3-410E-8C21-82631893CF9C}|RandomSeats\\RandomSeats.csproj|c:\\code\\randomseats\\randomseats\\controllers\\classroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BA67953-83D3-410E-8C21-82631893CF9C}|RandomSeats\\RandomSeats.csproj|solutionrelative:randomseats\\controllers\\classroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BA67953-83D3-410E-8C21-82631893CF9C}|RandomSeats\\RandomSeats.csproj|c:\\code\\randomseats\\randomseats\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BA67953-83D3-410E-8C21-82631893CF9C}|RandomSeats\\RandomSeats.csproj|solutionrelative:randomseats\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BA67953-83D3-410E-8C21-82631893CF9C}|RandomSeats\\RandomSeats.csproj|c:\\code\\randomseats\\randomseats\\models\\classunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BA67953-83D3-410E-8C21-82631893CF9C}|RandomSeats\\RandomSeats.csproj|solutionrelative:randomseats\\models\\classunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BA67953-83D3-410E-8C21-82631893CF9C}|RandomSeats\\RandomSeats.csproj|c:\\code\\randomseats\\randomseats\\views\\classroom\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9BA67953-83D3-410E-8C21-82631893CF9C}|RandomSeats\\RandomSeats.csproj|solutionrelative:randomseats\\views\\classroom\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BA67953-83D3-410E-8C21-82631893CF9C}|RandomSeats\\RandomSeats.csproj|c:\\code\\randomseats\\randomseats\\models\\tablemap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BA67953-83D3-410E-8C21-82631893CF9C}|RandomSeats\\RandomSeats.csproj|solutionrelative:randomseats\\models\\tablemap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BA67953-83D3-410E-8C21-82631893CF9C}|RandomSeats\\RandomSeats.csproj|c:\\code\\randomseats\\randomseats\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9BA67953-83D3-410E-8C21-82631893CF9C}|RandomSeats\\RandomSeats.csproj|solutionrelative:randomseats\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BA67953-83D3-410E-8C21-82631893CF9C}|RandomSeats\\RandomSeats.csproj|c:\\code\\randomseats\\randomseats\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BA67953-83D3-410E-8C21-82631893CF9C}|RandomSeats\\RandomSeats.csproj|solutionrelative:randomseats\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BA67953-83D3-410E-8C21-82631893CF9C}|RandomSeats\\RandomSeats.csproj|c:\\code\\randomseats\\randomseats\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BA67953-83D3-410E-8C21-82631893CF9C}|RandomSeats\\RandomSeats.csproj|solutionrelative:randomseats\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RandomSeatsContext.cs",
+              "DocumentMoniker": "C:\\code\\RandomSeats\\RandomSeats\\Data\\RandomSeatsContext.cs",
+              "RelativeDocumentMoniker": "RandomSeats\\Data\\RandomSeatsContext.cs",
+              "ToolTip": "C:\\code\\RandomSeats\\RandomSeats\\Data\\RandomSeatsContext.cs",
+              "RelativeToolTip": "RandomSeats\\Data\\RandomSeatsContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T21:01:36.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\code\\RandomSeats\\RandomSeats\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "RandomSeats\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\code\\RandomSeats\\RandomSeats\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "RandomSeats\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-08T21:00:39.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\code\\RandomSeats\\RandomSeats\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "RandomSeats\\Models\\Teacher.cs",
+              "ToolTip": "C:\\code\\RandomSeats\\RandomSeats\\Models\\Teacher.cs",
+              "RelativeToolTip": "RandomSeats\\Models\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T19:53:36.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\code\\RandomSeats\\RandomSeats\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "RandomSeats\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\code\\RandomSeats\\RandomSeats\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "RandomSeats\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T20:54:19.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TableMap.cs",
+              "DocumentMoniker": "C:\\code\\RandomSeats\\RandomSeats\\Models\\TableMap.cs",
+              "RelativeDocumentMoniker": "RandomSeats\\Models\\TableMap.cs",
+              "ToolTip": "C:\\code\\RandomSeats\\RandomSeats\\Models\\TableMap.cs",
+              "RelativeToolTip": "RandomSeats\\Models\\TableMap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T20:16:21.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClassUnit.cs",
+              "DocumentMoniker": "C:\\code\\RandomSeats\\RandomSeats\\Models\\ClassUnit.cs",
+              "RelativeDocumentMoniker": "RandomSeats\\Models\\ClassUnit.cs",
+              "ToolTip": "C:\\code\\RandomSeats\\RandomSeats\\Models\\ClassUnit.cs",
+              "RelativeToolTip": "RandomSeats\\Models\\ClassUnit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T20:01:07.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\code\\RandomSeats\\RandomSeats\\Views\\ClassRoom\\Details.cshtml",
+              "RelativeDocumentMoniker": "RandomSeats\\Views\\ClassRoom\\Details.cshtml",
+              "ToolTip": "C:\\code\\RandomSeats\\RandomSeats\\Views\\ClassRoom\\Details.cshtml",
+              "RelativeToolTip": "RandomSeats\\Views\\ClassRoom\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-08T19:54:28.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClassRoom.cs",
+              "DocumentMoniker": "C:\\code\\RandomSeats\\RandomSeats\\Controllers\\ClassRoom.cs",
+              "RelativeDocumentMoniker": "RandomSeats\\Controllers\\ClassRoom.cs",
+              "ToolTip": "C:\\code\\RandomSeats\\RandomSeats\\Controllers\\ClassRoom.cs",
+              "RelativeToolTip": "RandomSeats\\Controllers\\ClassRoom.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T19:33:14.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\code\\RandomSeats\\RandomSeats\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "RandomSeats\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\code\\RandomSeats\\RandomSeats\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "RandomSeats\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-08T19:16:08.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\code\\RandomSeats\\RandomSeats\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "RandomSeats\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\code\\RandomSeats\\RandomSeats\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "RandomSeats\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T18:03:02.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\code\\RandomSeats\\RandomSeats\\Program.cs",
+              "RelativeDocumentMoniker": "RandomSeats\\Program.cs",
+              "ToolTip": "C:\\code\\RandomSeats\\RandomSeats\\Program.cs",
+              "RelativeToolTip": "RandomSeats\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T17:58:15.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\code\\RandomSeats\\RandomSeats\\Repository.cs",
+              "RelativeDocumentMoniker": "RandomSeats\\Repository.cs",
+              "ToolTip": "C:\\code\\RandomSeats\\RandomSeats\\Repository.cs",
+              "RelativeToolTip": "RandomSeats\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T03:53:01.869Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

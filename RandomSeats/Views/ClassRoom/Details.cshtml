@@ -1,0 +1,19 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model List<TableMap>
+
+@foreach(var t in Model)
+{
+    <table>
+        <tr>
+            <th><strong>@t.Name</strong></th>
+        </tr>
+        @foreach(var s in t.Students)
+        {
+            <tr><td>@s</td></tr>
+        }
+    </table>
+}

@@ -1,0 +1,15 @@
+﻿@model List<ClassUnit>
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+@foreach(var c in Model)
+
+{
+    <a href="/ClassRoom/Details/@c.Id">
+    <button id="@c.Id" type="button" class="btn btn-primary">@c.Name</button>
+   
+    </a>
+
+
+}
